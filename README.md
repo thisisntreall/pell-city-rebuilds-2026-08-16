@@ -1,2 +1,5 @@
-# pell-city-rebuilds-2026-08-16
-Pell City prospect site rebuilds: Faded by Bobo, Executive Cleaning, Groomer Has It
+# Pell City rebuilds — 2026-08-16
+
+- [Faded by Bobo](faded-by-bobo/www/index.html)
+- [Executive Cleaning](executive-cleaning/www/index.html)
+- [Groomer Has It](groomer-has-it/www/index.html)
